@@ -1,0 +1,157 @@
+.highlight {
+    color: red; 
+}
+
+body {
+    background-image: url('./Slice\ 2.png'); 
+    background-repeat: repeat; 
+    margin: 0;
+    padding: 0; 
+    font-family: 'Roboto', sans-serif;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    min-height: 100vh; 
+    position: relative; 
+}
+
+.paper {
+    padding: 20px;
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.input-field {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn {
+    width: 100%;
+    padding: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #2980b9;
+}
+
+.form-title {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.link {
+    text-align: center;
+    color: #2980b9;
+    text-decoration: none;
+    display: block;
+    margin-top: 20px;
+}
+
+.link:hover {
+    color: #3498db;
+}
+
+.forgot-password-container {
+    padding: 20px;
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.verify-otp-container {
+    padding: 20px;
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.change-password-container {
+    padding: 20px;
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.multi-slide-container {
+    background: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    position: relative;
+}
+
+.multi-slide-content {
+    padding: 20px;
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.multi-slide-title {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.multi-slide-button {
+    width: 100%;
+    padding: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.multi-slide-button:hover {
+    background-color: #2980b9;
+}
+
+.carousel-button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.carousel-button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.carousel-button:hover {
+    background-color: #2980b9;
+}
+

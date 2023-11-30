@@ -18,7 +18,7 @@
     "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^5.3.4",
     "react-scripts": "5.0.1",
-    "styled-components": "^6.0.7",
+    "styled-components": "^6.1.0",
     "switch": "^0.0.0",
     "web-vitals": "^2.1.4",
     "yup": "^1.2.0"
